@@ -208,5 +208,35 @@
 
             ]
         }
+    },
+    {
+        "id": 14,
+        "name": "Ilex Forest",
+        "type": "forest",
+        "region": "Johto",
+        "description": "A large forest full of trees that are used to make charcoal.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Route 34",
+        "type": "route",
+        "region": "Johto",
+        "description": "A lush, green path, even though it's right next to a city.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
     }
 ]
