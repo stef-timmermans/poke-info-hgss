@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "New Bark Town",
+        "type": "town",
+        "region": "Johto",
+        "description": "A town where the wind blows and tells of impending change.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Route 29",
+        "type": "route",
+        "region": "Johto",
+        "description": "A road that begins a journey. The road smells like freshly cut grass.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Cherrygrove City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A city where you can smell small flowers and a sea breeze.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Route 30",
+        "type": "route",
+        "region": "Johto",
+        "description": "A grassy path where you can battle other young Trainers.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dark Cave",
+        "type": "cave",
+        "region": "Johto",
+        "description": "A dark, difficult-to-navigate tunnel that runs beneath the Johto region.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Route 31",
+        "type": "route",
+        "region": "Johto",
+        "description": "A short, nostalgic path winding through nature.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Violet City",
+        "type": "town",
+        "region": "Johto",
+        "description": "This old village is still surrounded by trees and other scenery.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Sprout Tower",
+        "type": "other",
+        "region": "Johto",
+        "description": "A tower where they study diligently to learn to live with Pokémon.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Route 32",
+        "type": "route",
+        "region": "Johto",
+        "description": "A path crossed by the Magnet Train bridge--nature meets technology.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Ruins of Alph",
+        "type": "other",
+        "region": "Johto",
+        "description": "A place where you can find a former adventure.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Union Cave",
+        "type": "cave",
+        "region": "Johto",
+        "description": "Deep underground, it's connected to the ocean. The water flows here.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Route 33",
+        "type": "route",
+        "region": "Johto",
+        "description": "A difficult and always rainy path that comes out in a cave.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Azalea Town",
+        "type": "town",
+        "region": "Johto",
+        "description": "A town where people and Pokémon live together in simple harmony.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Slowpoke Well",
+        "type": "cave",
+        "region": "Johto",
+        "description": "When Slowpoke are thirsty, they come here to drink.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    }
+]
