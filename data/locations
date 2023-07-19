@@ -105,7 +105,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Sprout Tower",
         "type": "other",
         "region": "Johto",
@@ -120,7 +120,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Route 32",
         "type": "route",
         "region": "Johto",
@@ -135,7 +135,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Ruins of Alph",
         "type": "other",
         "region": "Johto",
@@ -150,7 +150,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Union Cave",
         "type": "cave",
         "region": "Johto",
@@ -165,7 +165,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Route 33",
         "type": "route",
         "region": "Johto",
@@ -180,7 +180,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Azalea Town",
         "type": "town",
         "region": "Johto",
@@ -195,7 +195,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Slowpoke Well",
         "type": "cave",
         "region": "Johto",
@@ -210,7 +210,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Ilex Forest",
         "type": "forest",
         "region": "Johto",
@@ -225,7 +225,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Route 34",
         "type": "route",
         "region": "Johto",
@@ -238,5 +238,548 @@
 
             ]
         }
+    },
+    {
+        "id": 17,
+        "name": "Goldenrod City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A developing city where people and Pokémon come and go as they like.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Route 35",
+        "type": "route",
+        "region": "Johto",
+        "description": "A bright path with a lake that's easy on the eyes and easy to traverse.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "National Park",
+        "type": "other",
+        "region": "Johto",
+        "description": "A spacious and beautiful park. It's connected to the Pokéathlon Dome.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "name": "Route 36",
+        "type": "route",
+        "region": "Johto",
+        "description": "A green and densely overgrown path that forks in two directions.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "name": "Route 37",
+        "type": "route",
+        "region": "Johto",
+        "description": "A popular route for Trainers, marked by three Apricorn trees.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Ecruteak City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A city that even now bears the marks of its history",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "name": "Burned Tower",
+        "type": "other",
+        "region": "Johto",
+        "description": "A tower that was hit by lightning, and subsequently caught fire and burned.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Tin Tower",
+        "type": "other",
+        "region": "Johto",
+        "description": "A tower that's said to have a legendary Pokémon that lands there.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Route 38",
+        "type": "route",
+        "region": "Johto",
+        "description": "A path that weaves through trees and comes out at a farm.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Route 39",
+        "type": "route",
+        "region": "Johto",
+        "description": "A downhill path that passes through a grassy and breezy plain.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Olivine City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A city where you can hear the melody of the sea.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Glitter Lighthouse",
+        "type": "other",
+        "region": "Johto",
+        "description": "It shines brightly over the ocean with the power of Ampharos.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Route 40",
+        "type": "route",
+        "region": "Johto",
+        "description": "You can hear the waves on this path from west Olivine City to the sea.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "name": "Battle Frontier",
+        "type": "other",
+        "region": "Johto",
+        "description": "A place where people from all over come to show off their strength.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "name": "Route 41",
+        "type": "route",
+        "region": "Johto",
+        "description": "A rough spot in the sea where whirlpools block your path.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "name": "Whirl Islands",
+        "type": "cave",
+        "region": "Johto",
+        "description": "Four islands that are protected by whirlpools and are difficult to reach.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "name": "Cianwood City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A beachside city that has benefitted greatly from the sea.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "name": "Route 42",
+        "type": "route",
+        "region": "Johto",
+        "description": "A small path opened at the base of challenging Mt. Mortar with multiple entrances to it.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "name": "Mt. Mortar",
+        "type": "cave",
+        "region": "Johto",
+        "description": "A naturally large cavern that is incredibly spacious.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "name": "Mahogany Town",
+        "type": "town",
+        "region": "Johto",
+        "description": "A town with a suspicious air to it. It's a hiding place for ninjas.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "Route 43",
+        "type": "route",
+        "region": "Johto",
+        "description": "A town with a suspicious air to it. It's a hiding place for ninjas.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "name": "Lake of Rage",
+        "type": "lake",
+        "region": "Johto",
+        "description": "A huge lake full of clear, blue water.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "name": "Route 44",
+        "type": "route",
+        "region": "Johto",
+        "description": "A wonderful path with a few pleasant springs and abundant greenery.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "name": "Ice Path",
+        "type": "cave",
+        "region": "Johto",
+        "description": "A cave that connects Route 44 to Blackthorn City.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "name": "Blackthorn City",
+        "type": "town",
+        "region": "Johto",
+        "description": "A mysterious mountain village cut into a rock face.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "name": "Route 45",
+        "type": "route",
+        "region": "Johto",
+        "description": "A winding road by a river, but called \"Mountain Road.\"",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "name": "Route 46",
+        "type": "route",
+        "region": "Johto",
+        "description": "A way home that runs from the base of the mountains to the plains.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "name": "Route 47",
+        "type": "route",
+        "region": "Johto",
+        "description": "A road on a cliff that strikes fear in the hearts of those who dare to pass.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "name": "Route 48",
+        "type": "route",
+        "region": "Johto",
+        "description": "A pleasant path from the base of the mountain to the Safari Zone.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id" : 46,
+        "name" : "Safari Zone",
+        "type" : "other",
+        "region" : "Johto",
+        "description": "A place where you can experience wild thrills safely.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "name": "Pallet Town",
+        "type": "town",
+        "region": "Kanto",
+        "description": "A fairly new and quiet town. It's a small and pretty place.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "name": "Route 1",
+        "type": "route",
+        "region": "Kanto",
+        "description": "A country road full of greenery and rough paths.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "name": "Viridian City",
+        "type": "town",
+        "region": "Kanto",
+        "description": "A beautiful city that is enveloped in green year-round.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "name": "Route 2",
+        "type": "route",
+        "region": "Kanto",
+        "description": "A forest filled with nature and Bug-type Pokémon.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Viridian Forest",
+        "type": "forest",
+        "region": "Kanto",
+        "description": "A forest filled with nature and Bug-type Pokémon.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "name": "Diglett's Cave",
+        "type": "cave",
+        "region": "Kanto",
+        "description": "A tunnel dug by Diglett connecting Vermilion City to Pewter City.",
+        "pokemon": {
+            "land": [
+
+            ],
+            "water": [
+
+            ]
+        }
+    },
+    {
+
     }
 ]
